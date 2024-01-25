@@ -1,0 +1,14 @@
+{
+  "resourceName": "media",
+  "policyUUID": "0d03883b",
+  "bucketName": "amplifyreactgraphql8fb6236d831d454789fdd26c7621",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
